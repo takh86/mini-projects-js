@@ -41,7 +41,5 @@ Simon ist ein Gedächtnisspiel, bei dem der Spieler eine zufällig generierte Fa
 - JavaScript (Vanilla)
 - jQuary
 
----
 
-## 📁 Project Structure / Projektstruktur
 
