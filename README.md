@@ -27,6 +27,7 @@ Jedes Projekt befindet sich in einem eigenen Ordner und konzentriert sich auf ei
 - HTML
 - CSS
 - JavaScript (Vanilla)
+- jQuery
 
 ---
 
