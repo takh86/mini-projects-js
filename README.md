@@ -20,6 +20,12 @@ Jedes Projekt befindet sich in einem eigenen Ordner und konzentriert sich auf ei
    - **EN**: A memory game that tests how well you can follow a sequence.  
    - **DE**: Ein Gedächtnisspiel, das testet, wie gut du dir eine Reihenfolge merken kannst.
 
+3. [QR Code Project](./QR%20Code%20Project)
+   **A small Node.js CLI tool that:**
+   - Prompts the user for a URL.
+   - Creates a PNG QR code file named URL.png.
+   - Saves the same URL into a plain text file message.txt.
+
 ---
 
 ## 🛠️ Tech Stack / Technologien
@@ -28,6 +34,7 @@ Jedes Projekt befindet sich in einem eigenen Ordner und konzentriert sich auf ei
 - CSS
 - JavaScript (Vanilla)
 - jQuery
+- Node.js
 
 ---
 
